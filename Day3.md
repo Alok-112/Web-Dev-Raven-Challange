@@ -28,7 +28,7 @@ delete from table_name where prop_name ="prop_name";
 LMS Design 
 
 eraser (erd diagram)
-- copy the code in earser.io to see 
+- copy the code in (Eraser)[https://app.eraser.io/] to see 
 
 ```sql
 user[icon:user]{
