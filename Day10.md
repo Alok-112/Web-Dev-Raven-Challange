@@ -6,7 +6,7 @@ webhooks
 - Event driven architechture 
 ![alt text](./img/image-10.png)
 
-waiting for the event to be occured like user creation , payment capture 
+waiting for the event to be occured like user creation , payment capture.
 
 in clerk -> svix play 
 
